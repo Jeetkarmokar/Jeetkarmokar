@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://shivangmauryaa.in">
+  <a href="">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=60&lines=Breaking+things+responsibly+%F0%9F%94%B4;Offensive+Security+Researcher+%26+Red+Team+Lead;Bug+Bounty+Hunter+%40+HackerOne+%26+Bugcrowd;" alt="Typing SVG" />
   </a>
 </div>
